@@ -20,6 +20,11 @@ kullanırız
 }
 */
     public static void main(String[] args) {
+
+
         System.out.println("sürüm iki yapalım");
+        System.out.println("push************");
     }
+
 }
+
