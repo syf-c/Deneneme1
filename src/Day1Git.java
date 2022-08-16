@@ -1,3 +1,5 @@
+package Deneneme1.src;
+
 public class Day1Git {
     /*
  1-) git init --> Local repo olusturmak icin yani  .git ile klasörümüzün
